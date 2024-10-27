@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("clear index file")})();
