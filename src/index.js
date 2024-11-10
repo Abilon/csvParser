@@ -1,1 +1,1 @@
-console.log('clear index file');
+import CSVParser from './csv-parser.js';
